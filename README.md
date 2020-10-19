@@ -277,7 +277,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Dz Développeurs](https://www.facebook.com/Dz.Developpeurs/) A cool Facebook page shares projects made by Algerians, useful programming posts, geeky memes, etc.
 * Facebook groups
    * [DZ DÉVELOPPEURS](https://www.facebook.com/groups/dzdevs/) The largest Algerian developers community on Facebook
-
+*Twitter Accounts
+   *[Cassidoo](https://twitter.com/cassidoo?s=20) A really good account for things related to Front-end developing
+   
 ### Awesome repositories
 * Game design
    * [AwesomeJetLight](https://github.com/JetLightStudio/AwesomeJetLight)
